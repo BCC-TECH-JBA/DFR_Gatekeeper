@@ -1,1 +1,0 @@
-# FixTrach_OOP-and-DBMS-Finals-Requirement
