@@ -14,7 +14,7 @@ public class DatabaseInitializer {
     private static final String user = "root";
     private static final String password = "";
 
-    private static final Path dbPath = Path.of("database", "fixtrack_db.sql");
+    private static final Path dbPath = Path.of("database", "jaypee.sql");
 
     public static void init() {
         try {
